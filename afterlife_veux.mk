@@ -20,9 +20,9 @@ IS_OFFICIAL := true
 $(call inherit-product, device/xiaomi/veux/device.mk)
 
 # Inherit some common PixelOS
-$(call inherit-product, vendor/aosp/config/common_full_phone.mk)
+$(call inherit-product, vendor/afterlife/config/common_full_phone.mk)
 
-PRODUCT_NAME := aosp_veux
+PRODUCT_NAME := afterlife_veux
 PRODUCT_DEVICE := veux
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_BRAND := POCO

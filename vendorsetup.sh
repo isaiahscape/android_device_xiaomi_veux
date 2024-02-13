@@ -16,8 +16,4 @@ echo "Cloning hardware related stuff..."
 # Hardware
 git clone https://github.com/Evolution-X/hardware_xiaomi hardware/xiaomi
 
-echo "Cloning ViPER4AndroidFX..."
-# ViPER4AndroidFX
-git clone https://github.com/TogoFire/packages_apps_ViPER4AndroidFX packages/apps/ViPER4AndroidFX
-
 echo "Completed, proceeding to lunch"
