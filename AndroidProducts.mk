@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/afterlife_veux.mk
+    $(LOCAL_DIR)/awaken_veux.mk
 
 COMMON_LUNCH_CHOICES := \
-    afterlife_veux-user \
-    afterlife_veux-userdebug \
-    afterlife_veux-eng
+    awaken_veux-user \
+    awaken_veux-userdebug \
+    awaken_veux-eng
